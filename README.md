@@ -1,2 +1,2 @@
 # ArduinoSolderingStation
-Arudino based Soldering Station
+Arudino based Hot Air Soldering Station
